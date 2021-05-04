@@ -1,0 +1,196 @@
+body {
+  text-align: center;
+  margin: 0px;
+  background-image: url("pexels-cmonphotography-1809644.jpg");
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #71c9ce;
+  font-size: 45px;
+}
+
+hr {
+  width: 10%;
+  padding: 0px;
+  border-top: 10px dotted grey;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+}
+
+p {
+line-height: 2;
+}
+
+/*******************************************CLASS SELECTORS*****************************************/
+.top_container {}
+
+.middle_container {}
+
+.bottom-container {
+  background-color: #71c9ce;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  margin-top: 80px;
+}
+
+.picture {
+  background-color: #cbf1f5;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.cloud-1 {
+  position: absolute;
+  top: 369.4px;
+  left: 400px;
+  right: 634.8px;
+  bottom: 300px;
+  height: 150px;
+  width: 150px;
+}
+
+.cloud-2 {
+  position: relative;
+  left: 200px;
+  top: 0px;
+  height: 135px;
+  width: 170px;
+  margin: 0px;
+  margin-top: 0px;
+}
+
+.mountain {
+  display: inline;
+  margin: -100 auto 0 auto;
+}
+
+.profile_picture {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.flaticon {
+  width: 315px;
+  height: 315px;
+  float: left;
+  margin-right: 10px;
+}
+
+.text {
+  font-family: 'Shadows Into Light', cursive;
+  color: #66BFBF;
+}
+
+.color_change {
+  color: #11999E;
+}
+
+.skill-row {
+  display: inline-block;
+  width: 50%;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: left;
+  line-height: 200%;
+}
+
+.hr1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.hr2 {
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+.footer-link {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 40px;
+}
+
+.last_words {
+  color: #EAF6F6;
+  margin-top: 35px;
+  font-family: 'Krona One', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.Anchor {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: #00adb5;
+  padding: 10px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  font-family: 'Teko', sans-serif;
+  font-stretch: expanded;
+  font-size: 24px;
+
+}
+
+.Anchor:hover {
+background-color: #b83b5e;
+
+}
+
+/*******************************************ID SELECTORS*****************************************/
+#dude {
+  font-size: 2.5rem;
+  display: inline-block;
+  position: absolute;
+  top: 300px;
+  right: 430px;
+  bottom: 390.4px;
+  left: 441.862px;
+  margin-top: 0px;
+  font-weight: normal;
+}
+
+#I_am_Vova {
+  margin-bottom: 100px;
+}
+
+#float_right {
+  float: right;
+}
+
+#linkedIn {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 10px;
+  font-family: 'Krona One', sans-serif;
+  font-size: 15px;
+}
+
+#Twitter {
+  margin-left: 4px;
+  margin-right: 40px;
+  font-size: 15px;
+  font-family: 'Krona One', sans-serif;
+}
+
+#Website {
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 15px;
+  font-family: 'Krona One', sans-serif;
+}
+
+
+
+#Padding_1 {
+  padding-bottom: 50px;
+}
