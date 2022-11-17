@@ -1,3 +1,4 @@
 # Dude-site
-My first site :))
 
+My first website :)
+Built using basic HTML and CSS
